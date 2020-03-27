@@ -1,0 +1,2 @@
+my:
+  greeting: Hello World from spring-boot-config microservice specific file
