@@ -1,2 +1,2 @@
 my:
- greeting: Greeting from updated spring boot config specific file
+ greeting: Newly updated Greeting from updated spring boot config specific file
