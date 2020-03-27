@@ -1,2 +1,2 @@
 my:
-  greeting: Hello World from spring-boot-config microservice specific file
+ greeting: Greeting from updated spring boot config specific file
